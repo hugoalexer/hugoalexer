@@ -1,21 +1,4 @@
 students:
-    - name: "Sergio Patiño Alvarez"
-      time: "2013"
-      place: "Undergraduate student, no Independent consultant"
-      category: "former"
-      link:
-
-    - name: "Armando Comellas Montalvo"
-      time: "2013"
-      place: "Undergraduate student, no Independent consultant"
-      category: "former"
-      link: https://github.com/armandocomellas1 
-
-    - name: "Giancarlo De Vecchi"
-      time: "2014"
-      place: "Graduate student, now at Veneto Group Holdings"
-      category: "former"
-      link: https://www.linkedin.com/in/gianfranco-de-vecchi-045317b4/
 
     - name: "José Gustavo Fuentes"
       time: "2024"
@@ -23,7 +6,7 @@ students:
       category: "former"
       link: https://www.linkedin.com/in/josegustavofuentescabrera/ 
 
-    - name: "Adriana L. Fajardo Martos"
+    - name: "Adriana Fajardo Martos"
       time: "2020"
       place: "Graduate student, now at Ibero-American University"
       category: "former"
@@ -59,17 +42,35 @@ students:
       category: "former"
       link: https://www.linkedin.com/in/laura-guti%C3%A9rrez-jim%C3%A9nez-4a804529/
 
+    - name: "Giancarlo De Vecchi Onofrieti"
+      time: "2014"
+      place: "Graduate student, now at Veneto Group Holdings"
+      category: "former"
+      link: https://www.linkedin.com/in/gianfranco-de-vecchi-045317b4/
+
+    - name: "Armando Comellas Montalvo"
+      time: "2013"
+      place: "Undergraduate student, no Independent consultant"
+      category: "former"
+      link: https://github.com/armandocomellas1 
+
+    - name: "Sergio Patiño Alvarez"
+      time: "2013"
+      place: "Undergraduate student, no Independent consultant"
+      category: "former"
+      link:
+
+    - name: "Begoña Irigoyen Moreras"
+      time: "2025-"
+      place: "Graduate Student"
+      category: "current"
+      link: https://www.linkedin.com/in/bego%C3%B1a-irigoyen-procurement/ 
+
     - name: "Francisco Arreola Pérez"
       time: "2025-"
       place: "Graduate Student"
       category: "current"
-      link: 
-
-    - name: "Begoña Irigoyen"
-      time: "2026-"
-      place: "Graduate Student"
-      category: "current"
-      link: https://www.linkedin.com/in/bego%C3%B1a-irigoyen-procurement/ 
+      link: https://www.linkedin.com/in/francisco-armando-arreola-p%C3%A9rez-611424291/
 
     - name: "Antonio Purón Mier y Terán"
       time: "2021-"
